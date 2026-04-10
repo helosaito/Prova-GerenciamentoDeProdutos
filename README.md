@@ -1,12 +1,7 @@
 
 API RESTful de Gerenciamento de Produtos
-Aplicação Spring Boot para gerenciamento de estoque simplificado e pedidos, utilizando banco de dados H2 em memória.
-Tecnologias
-Java 17
-Spring Boot 3.x
-Spring Data JPA
-H2 Database
-Maven
+Aplicação Spring Boot para gerenciamento produtos.
+
 Execução
 Navegue até a pasta raiz do projeto.
 Execute o comando:
