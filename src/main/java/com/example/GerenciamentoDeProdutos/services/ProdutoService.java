@@ -38,4 +38,5 @@ public class ProdutoService {
             return produtoRepository.save(existente);
         }).orElseThrow(() -> new RuntimeException("Produto não encontrado para atualizar"));
     }
+
 }
